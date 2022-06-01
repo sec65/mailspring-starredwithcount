@@ -1,0 +1,1 @@
+# mailspring-starredwithcount

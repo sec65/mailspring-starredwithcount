@@ -1,0 +1,25 @@
+{
+  "name": "StarredWithCount",
+  "main": "./lib/main",
+  "version": "0.1.0",
+  "description": "Starred folder with counter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sec65/mailspring-starredwithcount"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "engines": {
+    "mailspring": ">=1.6.3"
+  },
+  "windowTypes": {
+    "default": true,
+    "composer": true
+  },
+  "devDependencies": {
+    "@types/react": "^16.7.22",
+    "typescript": "^3.6.3"
+  },
+  "license": "GPL-3.0"
+}
